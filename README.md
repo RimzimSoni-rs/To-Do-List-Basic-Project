@@ -2,7 +2,9 @@
 <br>
 A To-Do List Website is a simple, yet highly functional web-based application that allows users to manage their tasks efficiently. The core purpose of this project is to create a clean, user-friendly interface where users can add, edit, and delete tasks, as well as mark them as completed. The website will be designed to be intuitive and accessible across different devices.
 <br>
+
 <b>Features:</b>
+
 <br>
 
 Add Tasks: Users can input new tasks with titles and descriptions, setting deadlines or priorities if desired.
