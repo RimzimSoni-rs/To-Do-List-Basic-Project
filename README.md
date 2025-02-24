@@ -6,17 +6,19 @@ A To-Do List Website is a simple, yet highly functional web-based application th
 
 <b>Features:</b>
 <br>
-Add Tasks: Users can input new tasks with titles and descriptions, setting deadlines or priorities if desired.
+<ul>  
+<li>Add Tasks: Users can input new tasks with titles and descriptions, setting deadlines or priorities if desired.</li>
 
-Edit Tasks: Users have the ability to update or modify existing tasks.
+<li>Edit Tasks: Users have the ability to update or modify existing tasks.</li>
 
-Mark as Completed: Tasks can be marked as completed, providing users with a clear view of what they’ve already accomplished.
+<li>Mark as Completed: Tasks can be marked as completed, providing users with a clear view of what they’ve already accomplished.</li>
 
-Delete Tasks: Tasks that are no longer needed can be deleted with ease.
+<li>Delete Tasks: Tasks that are no longer needed can be deleted with ease.</li>
 
-Responsive Design: The website will be designed to work on both desktop and mobile devices, ensuring smooth usability across different screen sizes.
+<li>Responsive Design: The website will be designed to work on both desktop and mobile devices, ensuring smooth usability across different screen sizes.</li>
 
-Clear Layout: The layout will be simple and minimal, with a clear structure that makes navigation intuitive and the task list easy to read.
+<li>Clear Layout: The layout will be simple and minimal, with a clear structure that makes navigation intuitive and the task list easy to read.</li>
+</ul> 
 <hr>
 
 
